@@ -123,13 +123,25 @@ I'm currently exploring how **LLMs, tools, memory, automation, APIs, and modern 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepanshu779&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics">
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Deepanshu779&show_icons=true&hide_border=true&rank_icon=github"
+    height="165"
+    alt="Deepanshu's GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu779&layout=compact&hide_border=true"
+    height="165"
+    alt="Deepanshu's Top Languages"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu779&layout=compact&hide_border=true" height="170" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Deepanshu779&hide_border=true" alt="GitHub Streak">
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=Deepanshu779&hide_border=true"
+    alt="Deepanshu's GitHub Streak"
+  />
+</p>
 
 </div>
 
