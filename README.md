@@ -1,21 +1,26 @@
 <div align="center">
 
+  <!-- Typing SVG Header -->
   <a href="https://github.com/Deepanshu779">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Deepanshu+Kumar+Pandit+%F0%9F%91%8B;AI+%2F+ML+Developer+%E2%80%A2+Full-Stack+Engineer;Building+Intelligent+Software+%26+GenAI+Products;B.Tech+CSE+(Artificial+Intelligence)+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Deepanshu+Kumar+Pandit+%F0%9F%91%8B;AI+%2F+ML+Developer+%E2%80%A2+Full-Stack+Engineer;Building+Autonomous+Agents+%26+Intelligent+Systems;B.Tech+CSE+(Artificial+Intelligence)+Engineer" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
-    <strong>Full-Stack Developer | B.Tech CSE (AI) | Aspiring AI & Data Science Engineer</strong>
+    <strong>🚀 Full-Stack AI Engineer &bull; B.Tech in CSE (Artificial Intelligence) &bull; Problem Solver</strong>
+  </p>
+  <p align="center">
+    <em>Transforming complex data and state-of-the-art AI research into reliable, high-performance production software.</em>
   </p>
 
+  <!-- Quick Social & Contact Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/deepanshu-kumar-pandit/">
+    <a href="https://linkedin.com/in/deepanshu-kumar-pandit/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:deepanshukumarpandit2024@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://twitter.com/DeepanshuK57884">
+    <a href="https://twitter.com/DeepanshuK57884" target="_blank">
       <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
     </a>
     <a href="https://github.com/Deepanshu779?tab=repositories">
@@ -23,177 +28,158 @@
     </a>
   </p>
 
+  <!-- Metadata Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Deepanshu779&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20Full--Stack-8A2BE2?style=flat-square" alt="Focus" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Executive Summary
 
-I am a Computer Science & Engineering student specializing in **Artificial Intelligence** with a strong passion for developing end-to-end intelligent software. My focus lies at the intersection of **Machine Learning, Generative AI (LLMs/RAG), and Full-Stack Engineering**, transforming novel technical capabilities into production-ready, user-centric applications.
+I am a Computer Science & Engineering student specializing in **Artificial Intelligence**, driven by the challenge of bridging theoretical machine learning with production-grade engineering. My work focuses on **Generative AI systems (LLMs, RAG, Autonomous Agents)** and **modern Full-Stack web architectures**, creating intuitive applications that solve real-world problems.
 
-- 🎓 **Academics**: B.Tech in CSE (Artificial Intelligence) based in Delhi, India.
-- 💡 **Core Expertise**: GenAI applications, LLM orchestration, predictive ML models, REST APIs, and modern responsive web systems.
-- 🛠️ **Engineering Mindset**: From system design and API architecture to intuitive UI/UX and algorithmic efficiency.
-- 🔭 **Current Focus**: Autonomous AI agent workflows, real-time healthcare analytics, and scalable full-stack applications.
-- 💬 **Ask me about**: Python, Machine Learning, React, FastAPI, Flask, Generative AI integration, and full-stack development.
+```yaml
+Name: Deepanshu Kumar Pandit
+Specialization: Artificial Intelligence & Machine Learning
+Current Focus: Agentic Workflows, Healthcare AI, Distributed Full-Stack Systems
+Availability: Open for AI/ML & Software Engineering Roles / Internships
+Location: Delhi, India
+```
+
+#### ⚡ Core Capabilities:
+- 🧠 **AI / ML & GenAI**: Designing Retrieval-Augmented Generation (RAG) pipelines, LLM orchestration, prompt engineering, predictive modeling, and NLP.
+- 🌐 **Full-Stack Engineering**: Developing responsive frontends (React, Vite, Tailwind CSS) paired with asynchronous, high-throughput backends (FastAPI, Flask, Node.js).
+- 🏗️ **System Reliability**: Writing clean, modular, and maintainable code with strict adherence to design patterns, API security, and database normalization.
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| Project | Description | Core Stack | Status |
+  <!-- Skill Icons Display -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,react,vite,tailwind,html,css,fastapi,flask,nodejs,sqlite,postgres,git,github,docker,linux,vscode,postman" alt="Skill Icons" />
+  </a>
+
+</div>
+
+<br/>
+
+<details open>
+<summary><strong>🔍 Detailed Competency Breakdown</strong></summary>
+<br/>
+
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **Languages** | `Python`, `JavaScript (ES6+)`, `TypeScript`, `C++`, `SQL`, `HTML5`, `CSS3` |
+| **AI, ML & Data Science** | `Scikit-Learn`, `Pandas`, `NumPy`, `OpenCV`, `Streamlit`, `Matplotlib`, `Seaborn` |
+| **Generative AI & LLMs** | `LangChain`, `RAG Architectures`, `Groq Cloud`, `Hugging Face`, `Vector Embeddings`, `Prompt Optimization` |
+| **Frontend Frameworks** | `React.js`, `Vite`, `Tailwind CSS`, `Context API`, `Responsive UI/UX Design` |
+| **Backend & APIs** | `FastAPI`, `Flask`, `Node.js / Express`, `RESTful API Design`, `JWT Auth`, `CORS` |
+| **Databases & Storage** | `PostgreSQL`, `SQLite`, `Vector DBs (Chroma/FAISS)`, `Relational Schema Design` |
+| **DevOps & Developer Tools** | `Git`, `GitHub`, `VS Code`, `Docker`, `Postman`, `Linux / Bash`, `Vercel` |
+
+</details>
+
+---
+
+### 🚀 Featured Engineering Projects
+
+<div align="center">
+
+| Project | Highlights & Engineering Architecture | Tech Stack | Source / Demo |
 | :--- | :--- | :--- | :---: |
-| 🏥 [**MediAI 2.0**](https://github.com/Deepanshu779/MediAI2.0) | **AI Healthcare Assessment & Guidance**<br>ML-driven symptom diagnostic web app integrated with Groq Generative AI for tailored educational guidance and automated PDF reports. | `Python` `Flask` `Scikit-Learn` `Groq GenAI` | ![Active](https://img.shields.io/badge/Live-brightgreen?style=flat-square) |
-| 📈 [**Pricevana**](https://github.com/Deepanshu779/Pricevana) | **Smart Price Tracking & Drop Prediction Engine**<br>Analyzes historical pricing trends, utilizes predictive ML for price drop timing, and auto-discovers active coupons. | `JavaScript` `React` `Python` `ML` `APIs` | ![Active](https://img.shields.io/badge/Live-brightgreen?style=flat-square) |
-| 🤖 [**KRITAM-AI**](https://github.com/Deepanshu779/KRITAM-AI) | **Autonomous Personal AI Assistant**<br>Full-stack conversational agent designed for contextual memory, tool execution, and automated assistant workflows. | `React` `FastAPI` `LLMs` `Python` | ![Building](https://img.shields.io/badge/Active-blue?style=flat-square) |
-| 💼 [**Enterprise CRM**](https://github.com/Deepanshu779/CRM) | **High-Fidelity CRM & Business Analytics**<br>Full-stack management system with corporate UI aesthetic, lead pipeline tracking, customer records, and data analytics. | `React` `Flask` `JavaScript` `Analytics` | ![Completed](https://img.shields.io/badge/Ready-success?style=flat-square) |
-| 🧠 [**EmpathyBot 2.0**](https://github.com/Deepanshu779/EmpathyBot2.0) | **AI Mental Health Companion & Support**<br>Streamlit companion offering empathetic dialogue, mood & sentiment detection, crisis triage, and helpline guidance. | `Python` `Streamlit` `NLP` `Sentiment Analysis` | ![Completed](https://img.shields.io/badge/Ready-success?style=flat-square) |
-| 🏠 [**Kaathirent**](https://github.com/Deepanshu779/Kaathirent) | **Furniture & Appliance Rental Marketplace**<br>Modern web platform providing scalable monthly rental solutions for furniture and appliances with seamless search. | `Python` `Full Stack` `Web` `UI/UX` | ![Completed](https://img.shields.io/badge/Ready-success?style=flat-square) |
+| 🏥 [**MediAI 2.0**](https://github.com/Deepanshu779/MediAI2.0) | **AI Healthcare Assessment & Guidance**<br>&bull; Machine learning-driven symptom diagnosis and triage platform.<br>&bull; Powered by Groq Generative AI for customized clinical explanations.<br>&bull; Automated PDF diagnostic report generation for patients. | `Python`<br>`Flask`<br>`Scikit-Learn`<br>`Groq AI`<br>`Tailwind` | [![Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepanshu779/MediAI2.0) |
+| 📈 [**Pricevana**](https://github.com/Deepanshu779/Pricevana) | **Smart Price Tracking & Drop Prediction Engine**<br>&bull; Real-time e-commerce price monitoring and trend analysis engine.<br>&bull; Predictive ML models forecasting optimal price drops.<br>&bull; Automated coupon discovery and discount notifications. | `React`<br>`Python`<br>`Machine Learning`<br>`REST APIs` | [![Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepanshu779/Pricevana) |
+| 🤖 [**KRITAM-AI**](https://github.com/Deepanshu779/KRITAM-AI) | **Autonomous Personal AI Assistant & Agent**<br>&bull; Conversational intelligent agent equipped with episodic memory.<br>&bull; Dynamic tool-use routing, task automation, and API invocation.<br>&bull; Low-latency responses with FastAPI async endpoints. | `React`<br>`FastAPI`<br>`LangChain`<br>`LLMs`<br>`Python` | [![Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepanshu779/KRITAM-AI) |
+| 💼 [**Enterprise CRM**](https://github.com/Deepanshu779/CRM) | **Corporate CRM & Business Intelligence Dashboard**<br>&bull; Scalable multi-stage customer relationship and pipeline tracker.<br>&bull; Interactive data analytics dashboards with conversion telemetry.<br>&bull; Clean corporate design system built with modular components. | `React`<br>`Flask`<br>`JavaScript`<br>`Data Analytics` | [![Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepanshu779/CRM) |
+| 🧠 [**EmpathyBot 2.0**](https://github.com/Deepanshu779/EmpathyBot2.0) | **AI Mental Health Companion & Crisis Triage**<br>&bull; Empathetic conversational companion designed with NLP sentiment detection.<br>&bull; Built-in crisis safety rules and automated mental health helpline directory.<br>&bull; User mood tracking over conversational sessions. | `Python`<br>`Streamlit`<br>`NLP`<br>`Sentiment Analysis` | [![Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepanshu779/EmpathyBot2.0) |
+| 🏠 [**Kaathirent**](https://github.com/Deepanshu779/Kaathirent) | **Furniture & Appliance Rental Marketplace**<br>&bull; Full-stack e-commerce marketplace for flexible monthly rentals.<br>&bull; Filtered inventory catalog with search, cart management, and booking.<br>&bull; Mobile-responsive UI with smooth product checkout flows. | `Python`<br>`Full Stack`<br>`Web Architecture`<br>`UI/UX` | [![Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deepanshu779/Kaathirent) |
 
 </div>
 
 ---
 
-### 🛠️ Technical Skills & Tooling
+### 📊 GitHub Activity & Real-Time Analytics
 
 <div align="center">
 
-#### 🤖 Artificial Intelligence & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
-
-#### 🧠 Generative AI & LLM Engineering
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Groq%20Cloud-F55036?style=for-the-badge&logo=fastapi&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4F46E5?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-0EA5E9?style=for-the-badge&logo=probot&logoColor=white" alt="RAG" />
-</p>
-
-#### 🌐 Full-Stack Web Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### ⚙️ Backend, Databases & System Architecture
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
-
-#### 🛠️ DevOps & Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-</div>
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Deepanshu779&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-          alt="Deepanshu's GitHub Stats"
-          height="165"
-        />
+      <td align="center" valign="top">
+        <a href="https://github.com/Deepanshu779">
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=Deepanshu779&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+            alt="Deepanshu's GitHub Stats"
+            height="165"
+          />
+        </a>
       </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu779&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Deepanshu's Top Languages"
-          height="165"
-        />
+      <td align="center" valign="top">
+        <a href="https://github.com/Deepanshu779">
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshu779&layout=compact&theme=tokyonight&hide_border=true"
+            alt="Deepanshu's Top Languages"
+            height="165"
+          />
+        </a>
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img
-    src="https://streak-stats.demolab.com?user=Deepanshu779&theme=tokyonight&hide_border=true"
-    alt="Deepanshu's GitHub Streak"
-  />
+  <a href="https://github.com/Deepanshu779">
+    <img
+      src="https://streak-stats.demolab.com?user=Deepanshu779&theme=tokyonight&hide_border=true"
+      alt="Deepanshu's GitHub Streak"
+    />
+  </a>
 
 </div>
 
 ---
 
-### 🎯 Current Goals & Roadmap
+### 🎯 Engineering Principles
 
-```text
-[Foundations]  → Data Structures & Algorithms (C++ / Python)
-       │
-[AI Core]      → Statistical ML, Deep Learning & Computer Vision
-       │
-[Modern AI]    → Generative AI, RAG Architectures & LLM Agent Workflows
-       │
-[Full-Stack]   → Scalable Microservices, Event-Driven Backends & Cloud Deployment
-       │
-[Impact]       → Shipping production software solving practical real-world problems
-```
+- **💡 Value-First Delivery**: Solve practical, painful problems first; choose technology that serves the product.
+- **🛡️ Clean Code & Architecture**: Decoupled modules, explicit types, predictable state, and comprehensive error handling.
+- **⚡ Performance & Scalability**: Low latency, lightweight payloads, and efficient algorithmic complexity ($O(N \log N)$ or better).
+- **🔄 Continuous Evolution**: Always staying ahead with emerging AI agent patterns, new model capabilities, and modern developer tooling.
 
 ---
 
-### 🤝 Let's Collaborate & Connect
+### 🤝 Let's Connect & Collaborate
 
-I am actively looking for **Software Engineering / AI Internship opportunities, collaborative open-source projects, and technical discussions**. If you have an exciting challenge or want to build something impactful together, let's talk!
+I am actively exploring **Software Engineering and AI / ML Opportunities (Internships, Entry-Level Engineering Roles, and High-Impact Projects)**. Whether you want to discuss a new project, explore agentic AI, or just talk tech, feel free to reach out!
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/deepanshu-kumar-pandit/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/deepanshu-kumar-pandit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:deepanshukumarpandit2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/DeepanshuK57884">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
+  <a href="https://twitter.com/DeepanshuK57884" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
   &nbsp;
   <a href="https://github.com/Deepanshu779">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br/><br/>
 
-  <p>⭐ <em>Star repositories that inspire you — contributions and feedback are always welcome!</em></p>
+  <p><em>⭐️ Found something interesting? Give a repository a star and let's build the future together!</em></p>
 
 </div>
